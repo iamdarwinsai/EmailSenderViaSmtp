@@ -3,12 +3,12 @@ import * as smtpTransport from 'nodemailer-smtp-transport';
 
 // Replace these values with your own SMTP server details
 const smtpConfig = {
-  host: 'email-smtp.us-east-1.amazonaws.com',
+  host: 'asdasd',
   port: 465, // use your SMTP server port
   secure: true, // true for 465, false for other ports
   auth: {
-    user: 'AKIAQS3LJQJN3O7FHZE6',
-    pass: 'BH8uSS8AKWBsN4qjzCImGPkeGAliOIx3OyxtTVZLt1rE',
+    user: 'sadasd',
+    pass: 'asdasda',
   },
 };
 
